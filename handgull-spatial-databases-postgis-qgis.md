@@ -60,7 +60,7 @@ Un "enterprise level" spatial database può essere complicato da installare e ge
 - Scalability
   - Replication (se io ho 100 client che richiedono le risorse la risposta potrebbe essere lenta, serve quindi la possibilità di aggiungere un replicate server, per aumentare speed e capability)
 - Common data store
-  - Integrate non-spatial data
+  - Integrazione di non-spatial data
 # postgis in action
 Aggiungere l'estensione ad un db esistente
 ```sql
